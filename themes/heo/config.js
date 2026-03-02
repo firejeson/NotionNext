@@ -29,8 +29,8 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '购前须知', url: '/article/Known' },
-  HEO_HERO_CATEGORY_2: { title: '卓工自提', url: '/tag/卓工自提' },
-  HEO_HERO_CATEGORY_3: { title: '虎溪送发', url: '/tag/虎溪送发' },
+  HEO_HERO_CATEGORY_2: { title: '卓工自提', url: '/category/卓工自提' },
+  HEO_HERO_CATEGORY_3: { title: '虎溪送发', url: '/category/虎溪送发' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '',
