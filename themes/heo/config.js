@@ -28,7 +28,7 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '超前预定', url: '/tag/超前预定' },
+  HEO_HERO_CATEGORY_1: { title: '购前须知', url: '/Known' },
   HEO_HERO_CATEGORY_2: { title: '卓工自提', url: '/tag/卓工自提' },
   HEO_HERO_CATEGORY_3: { title: '虎溪送发', url: '/tag/虎溪送发' },
 
